@@ -7,7 +7,7 @@
   </path>
   <!-- Font family copy from GitHub -->
   <text fill="#1F2328" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace"
-    font-size="25" font-weight="700" dominant-baseline="middle" x="0%" text-anchor="start" font-style="italic">
+    font-size="20" font-weight="700" dominant-baseline="middle" x="0%" text-anchor="start" font-style="italic">
     <textPath xlink:href="#path0">
       &lt;/&gt; Hello World! I am <tspan fill="#0088f5">Yujie</tspan>.
     </textPath>
